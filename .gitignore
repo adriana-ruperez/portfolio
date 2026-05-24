@@ -31,6 +31,3 @@ __pycache__/
 tmp/
 temp/
 
-# assets folder and reports folder
-assets/
-reports/

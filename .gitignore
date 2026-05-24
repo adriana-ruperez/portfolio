@@ -1,0 +1,36 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# LaTeX / resume build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+
+# Generated PDFs from local builds
+out/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generic caches / temp files
+.cache/
+.tmp/
+tmp/
+temp/
+
+# assets folder and reports folder
+assets/
+reports/
